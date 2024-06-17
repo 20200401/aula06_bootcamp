@@ -1,3 +1,6 @@
+#Dado um arquivo CSV contendo dados de vendas, o desafio consiste em ler os dados, processa-los
+#em um dicionario para analise e, por fim, calcular e reportar totais por categoria de produto.
+
 import csv
 
 path_arquivo = "vendas.csv"
